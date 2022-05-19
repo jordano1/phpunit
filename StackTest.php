@@ -13,7 +13,7 @@ final class StackTest extends TestCase
 
         return $stack;
     }
-d
+
     /**
      * @depends testEmpty
      */
